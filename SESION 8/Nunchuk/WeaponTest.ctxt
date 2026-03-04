@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.target=WeaponTest
+comment0.text=\r\n\ The\ test\ class\ WeaponTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=WeaponTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ WeaponTest\r\n
+comment10.params=
+comment10.target=void\ toStringCorrect()
+comment10.text=\r\n\ Pruebas\ del\ m\u00E9todo\ toString()\r\n\ Caso\ 1\:\r\n
+comment2.params=
+comment2.target=void\ constWithoutParams()
+comment2.text=\r\n\ Pruebas\ del\ constructor\ sin\ par\u00E1metros\r\n\ Caso\ \u00FAnico\:\r\n
+comment3.params=
+comment3.target=void\ constWithParams()
+comment3.text=\r\n\ Pruebas\ del\ constructor\ con\ par\u00E1metros\r\n\ Caso\ 1\:\ todo\ correcto\r\n
+comment4.params=
+comment4.target=void\ constWithAmmunEqual0()
+comment4.text=\r\n\ Pruebas\ del\ constructor\ con\ par\u00E1metros\r\n\ Caso\ 2\:\ Ammunition\ igual\ a\ 0\r\n
+comment5.params=
+comment5.target=void\ constWithAmmunAboveLimits()
+comment5.text=\r\n\ Pruebas\ del\ constructor\ con\ par\u00E1metros\r\n\ Caso\ 3\:\ Ammunition\ igual\ a\ 0\r\n
+comment6.params=
+comment6.target=void\ constWithNameEqualNull()
+comment6.text=\r\n\ Pruebas\ del\ constructor\ con\ par\u00E1metros\r\n\ Caso\ 4\:\ name\ igual\ a\ null\r\n
+comment7.params=
+comment7.target=void\ constWithNameEqualSpace()
+comment7.text=\r\n\ Pruebas\ del\ constructor\ con\ par\u00E1metros\r\n\ Caso\ 5\:\ name\ igual\ a\ blanco\r\n
+comment8.params=
+comment8.target=void\ shootAmmunInsideLimits()
+comment8.text=\r\n\ Pruebas\ del\ m\u00E9todo\ shoot()\r\n\ Caso\ 1\:\ Munici\u00F3n\ >0\r\n
+comment9.params=
+comment9.target=void\ shootAmmunEqual0()
+comment9.text=\r\n\ Pruebas\ del\ m\u00E9todo\ shoot()\r\n\ Caso\ 2\:\ Munici\u00F3n\ \=0\r\n
+numComments=11
