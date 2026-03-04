@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PlaneTest
+comment0.text=\r\n\ The\ test\ class\ PlaneTest.\r\nVersi\u00F3n\ 1.0\ s\u00F3lo\ pruebas\ del\ constructor\ por\ defecto.\r\n\r\n\ @author\ \ David\r\n\ @version\ 07/10/2022\r\n
+comment1.params=
+comment1.target=PlaneTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ PlaneTest\r\n
+comment2.params=
+comment2.target=void\ constructorWithoutParamUniqCase()
+comment2.text=\r\n\ Pruebas\ del\ constructor\ por\ defecto\r\n\ Caso\ 1.\ Caso\ \u00FAnico.\ Creamos\ un\ avi\u00F3n\ con\ los\ valores\ por\ defecto.\r\n
+comment3.params=
+comment3.target=void\ constWithParamFuelEquals0()
+comment3.text=\r\n\ Pruebas\ del\ constructor\ con\ tres\ par\u00E1metros.\ Pruebas\ fuel\r\n\ Caso\ P1.\ Fuel\ igual\ a\ 0\r\n
+comment4.params=
+comment4.target=void\ constWithParamFuelEquals1000()
+comment4.text=\r\n\ Pruebas\ del\ constructor\ con\ tres\ par\u00E1metros.\ Pruebas\ fuel\r\n\ Caso\ P2.\ Fuel\ igual\ a\ 1000\r\n
+comment5.params=
+comment5.target=void\ constWithParamFuelEquals5000()
+comment5.text=\r\n\ Pruebas\ del\ constructor\ con\ tres\ par\u00E1metros.\ Pruebas\ fuel\r\n\ Caso\ P3.\ Fuel\ igual\ a\ 5000\r\n
+comment6.params=
+comment6.target=void\ constWithParamFuelBelowLimit()
+comment6.text=\r\n\ Pruebas\ del\ constructor\ con\ tres\ par\u00E1metros.\ Pruebas\ fuel\r\n\ Caso\ N1\:\ Fuel\ <0\r\n
+comment7.params=
+comment7.target=void\ constWithParamFuelAboveLimit()
+comment7.text=\r\n\ Pruebas\ del\ constructor\ con\ tres\ par\u00E1metros.\ Pruebas\ fuel\r\n\ Caso\ N2\:\ Fuel\ >5000\r\n
+numComments=8

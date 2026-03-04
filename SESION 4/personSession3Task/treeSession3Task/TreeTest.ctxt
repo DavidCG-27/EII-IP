@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TreeTest
+comment0.text=\r\n\ The\ test\ class\ TreeTest.\r\n\r\n\ @author\ \ David\ Covi\u00E1n\ G\u00F3mez\r\n\ @version\ 03/10/2022\r\n
+comment1.params=
+comment1.target=TreeTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ TreeTest\r\n
+comment2.params=
+comment2.target=void\ testNumberOfFlowers()
+comment2.text=\r\n\ Pruebas\ del\ setNumberOfFlowers\r\n\ Caso\ 1\:\ N\u00FAmero\ de\ flores\ recibidos\ dentro\ de\ los\ l\u00EDmites.\r\n
+comment3.params=
+comment3.target=void\ testNumberOfFlowersOverLimits()
+comment3.text=\r\n\ Pruebas\ del\ setNumberOfFlowers\r\n\ Caso\ 2\:\ N\u00FAmero\ de\ flores\ recibidos\ por\ encima\ de\ los\ l\u00EDmites.\r\n
+comment4.params=
+comment4.target=void\ testNumberOfFlowersUnderLimits()
+comment4.text=\r\n\ Pruebas\ del\ setNumberOfFlowers\r\n\ Caso\ 3\:\ N\u00FAmero\ de\ flores\ recibidos\ por\ debajo\ de\ los\ l\u00EDmites.\r\n
+numComments=5
