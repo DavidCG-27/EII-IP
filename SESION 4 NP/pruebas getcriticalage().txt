@@ -1,0 +1,47 @@
+9:32 07/10/2022
+Caso1: (entre 0 y 17)
+Person p=newPerson(8);
+assertEquals(9,p.getCriticalAge());
+(los demás casos igual pero cambiando los números)
+
+...
+
+ORDEN ATRIBUTOS:
+	- constantes
+	- atributos variables
+	- constructores
+	- todo lo demás
+
+...
+
+String s1="hola";
+String s2="hola";
+System.out.println(s1==s2);
+
+NO ("==" solo en int y boolean), lo correcto sería:
+
+String s1="hola";
+String s2="hola";
+System.out.println(s1.equals(s2)); 
+	
+#tmb serviría: 
+
+String s1="hola";
+String s2="hola";
+System.out.println(s1.compareTo(s2)==0); 
+
+...
+
+ej1: pruebas al constructor para name==null, name!=null, surname==null, surname!=null
+ 
+...
+String --> "A"
+char --> 'A'
+
+...
+
+EJERCICIOS PARA CASA:
+
+pruebas constructor tres parámetros (identifier)
+añadir método toString
+
