@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Switch
+comment0.text=\r\n\ Clase\ Switch\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Switch()
+comment1.text=\r\n\ Constructor\ por\ defecto\ de\ la\ clase\ Switch.\r\n
+comment2.params=
+comment2.target=boolean\ getButton()
+comment2.text=\r\n\ M\u00E9todo\ que\ devuelve\ el\ valor\ booleano\ del\ atributo\r\n\ @return\ Valor\ booleano\ de\ button.\r\n
+comment3.params=
+comment3.target=void\ press()
+comment3.text=\r\n\ M\u00E9todo\ que\ cambia\ el\ estado\ del\ bot\u00F3n\ cada\ vez\ que\ se\ invoca.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ M\u00E9todo\ que\ devuelve\ el\ estado\ del\ bot\u00F3n\r\n\ @return\ Estado\ del\ bot\u00F3n.\r\n
+numComments=5

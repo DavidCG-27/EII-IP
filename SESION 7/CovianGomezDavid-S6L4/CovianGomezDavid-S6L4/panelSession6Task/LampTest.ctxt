@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LampTest
+comment0.text=\r\n\ The\ test\ class\ LampTest.\r\n\r\n\ @author\ \ David\ Covi\u00E1n\ G\u00F3mez\r\n\ @version\ 21-10-2022\r\n
+comment1.params=
+comment1.target=void\ turnOn()
+comment1.text=\r\n\ Pruebas\ del\ m\u00E9todo\ turnOn()\r\n\ Caso\ 1\:\r\n
+comment2.params=
+comment2.target=void\ turnOff()
+comment2.text=\r\n\ Pruebas\ del\ m\u00E9todo\ turnOff()\r\n\ Caso\ 1\:\r\n
+comment3.params=
+comment3.target=void\ toStringLampOff()
+comment3.text=\r\n\ Pruebas\ del\ m\u00E9todo\ toString()\r\n\ Caso\ 1\:\ L\u00E1mpara\ apagada\r\n
+comment4.params=
+comment4.target=void\ toStringLampOn()
+comment4.text=\r\n\ Pruebas\ del\ m\u00E9todo\ toString()\r\n\ Caso\ 2\:\ L\u00E1mpara\ encendida\r\n
+numComments=5

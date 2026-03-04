@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PotentiometerTest
+comment0.text=\r\n\ The\ test\ class\ PotentiometerTest.\r\n\r\n\ @author\ \ David\ Covi\u00E1n\ G\u00F3mez\r\n\ @version\ 21-10-2022\r\n
+comment1.params=
+comment1.target=void\ movePositionInsideLimits()
+comment1.text=\r\n\ Pruebas\ del\ m\u00E9todo\ movePosition()\r\n\ Caso\ P1\:\ Valor\ correcto\r\n
+comment2.params=
+comment2.target=void\ movePositionAboveLimits()
+comment2.text=\r\n\ Pruebas\ del\ m\u00E9todo\ movePosition()\r\n\ Caso\ N1\:\ Valor\ por\ encima\ del\ l\u00EDmite\r\n
+comment3.params=
+comment3.target=void\ movePositionBelowLimits()
+comment3.text=\r\n\ Pruebas\ del\ m\u00E9todo\ movePosition()\r\n\ Caso\ N1\:\ Valor\ por\ debajo\ del\ l\u00EDmite\r\n
+comment4.params=
+comment4.target=void\ toStringTest()
+comment4.text=\r\n\ Pruebas\ del\ m\u00E9todo\ toString()\r\n\ Caso\ 1\:\r\n
+numComments=5

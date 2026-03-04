@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Potentiometer
+comment0.text=\r\n\ Clase\ Potenci\u00F3metro\r\n\ \r\n\ @author\ David\ Covi\u00E1n\ G\u00F3mez\r\n\ @version\ 21-10-2022\r\n
+comment1.params=
+comment1.target=Potentiometer()
+comment1.text=\r\n\ Constructor\ por\ defecto\r\n
+comment2.params=condition\ errorMsg
+comment2.target=void\ checkParam(boolean,\ java.lang.String)
+comment2.text=\r\n\ Lanza\ un\ error\ cuando\ no\ se\ cumple.\r\n
+comment3.params=value
+comment3.target=void\ movePosition(int)
+comment3.text=\r\n\ M\u00E9todo\ que\ permite\ cambiar\ la\ posici\u00F3n\ del\ potenci\u00F3metro\ dentro\ del\ intervalo\ permitido\r\n
+comment4.params=
+comment4.target=int\ getPosition()
+comment4.text=\r\n\ M\u00E9todo\ que\ devuelve\ el\ valor\ de\ la\ posici\u00F3n.\r\n\ @return\ Posici\u00F3n\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ M\u00E9todo\ que\ devuelve\ la\ posici\u00F3n\ del\ potenci\u00F3metro.\r\n\ @return\ Posici\u00F3n\ del\ potenci\u00F3metro.\r\n
+numComments=6

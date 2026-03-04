@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SwitchTest
+comment0.text=\r\n\ The\ test\ class\ SwitchTest.\r\n\r\n\ @author\ \ David\ Covi\u00E1n\ G\u00F3mez\r\n\ @version\ 21-10-22\r\n
+comment1.params=
+comment1.target=void\ pressButtonOn()
+comment1.text=\r\n\ Pruebas\ del\ m\u00E9todo\ press()\r\n\ Caso\ 1\:\ Bot\u00F3n\ encendido\r\n
+comment2.params=
+comment2.target=void\ pressButtonOff()
+comment2.text=\r\n\ Pruebas\ del\ m\u00E9todo\ press()\r\n\ Caso\ 2\:\ Bot\u00F3n\ apagado\r\n
+comment3.params=
+comment3.target=void\ toStringOn()
+comment3.text=\r\n\ Pruebas\ del\ m\u00E9todo\ toString()\r\n\ Caso\ 1\:\ Bot\u00F3n\ encendido\r\n
+comment4.params=
+comment4.target=void\ toStringOff()
+comment4.text=\r\n\ Pruebas\ del\ m\u00E9todo\ toString()\r\n\ Caso\ 2\:\ Bot\u00F3n\ apagado\r\n
+numComments=5

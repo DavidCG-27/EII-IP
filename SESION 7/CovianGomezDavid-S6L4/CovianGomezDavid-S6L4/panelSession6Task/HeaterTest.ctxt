@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HeaterTest
+comment0.text=\r\n\ The\ test\ class\ HeaterTest.\r\n\r\n\ @author\ \ David\ Covi\u00E1n\ G\u00F3mez\r\n\ @version\ 21-10-2022\r\n
+comment1.params=
+comment1.target=void\ changeTemperatureInsideLimits()
+comment1.text=\r\n\ Pruebas\ del\ m\u00E9todo\ changeTemperature()\r\n\ Caso\ P1\:\ Temperatura\ introducida\ correcta\r\n
+comment2.params=
+comment2.target=void\ changeTemperatureBelowLimits()
+comment2.text=\r\n\ Pruebas\ del\ m\u00E9todo\ changeTemperature()\r\n\ Caso\ N1\:\ Temperatura\ introducida\ menor\ que\ el\ m\u00EDnimo\r\n
+comment3.params=
+comment3.target=void\ changeTemperatureAboveLimits()
+comment3.text=\r\n\ Pruebas\ del\ m\u00E9todo\ changeTemperature()\r\n\ Caso\ N1\:\ Temperatura\ introducida\ mayor\ que\ el\ m\u00E1ximo\r\n
+comment4.params=
+comment4.target=void\ toStringCorrect()
+comment4.text=\r\n\ Pruebas\ del\ m\u00E9todo\ toString()\r\n\ Caso\ 1\:\r\n
+numComments=5

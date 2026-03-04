@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Heater
+comment0.text=\r\n\ Clase\ Heater\r\n\ \r\n\ @author\ David\ Covi\u00E1n\ G\u00F3mez\r\n@version\ 21-10-22
+comment1.params=
+comment1.target=Heater()
+comment1.text=\r\n\ Constructor\ por\ defecto\ de\ la\ clase\ Heater\r\n
+comment2.params=condition\ errorMsg
+comment2.target=void\ checkParam(boolean,\ java.lang.String)
+comment2.text=\r\n\ Lanza\ un\ error\ cuando\ no\ se\ cumple.\r\n
+comment3.params=temperature
+comment3.target=void\ changeTemperature(double)
+comment3.text=\r\n\ M\u00E9todo\ que\ cambia\ el\ valor\ de\ la\ temperatura\ teniendo\ en\ cuenta\ el\ intervalo\ disponible.\r\n\ @param\ temperature\ Temperatura\ del\ radiador.\r\n
+comment4.params=
+comment4.target=double\ getTemperature()
+comment4.text=\r\n\ M\u00E9todo\ que\ devuelve\ el\ valor\ de\ la\ temperatura.\r\n\ @return\ Temperatura\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ M\u00E9todo\ que\ devuelve\ la\ temperatura\ del\ radiador\r\n\ @return\ Temperatura\ del\ radiador\r\n
+numComments=6

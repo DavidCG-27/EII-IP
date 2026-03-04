@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Lamp
+comment0.text=\r\n\ Clase\ Lamp\r\n\ \r\n\ @author\ David\ Covi\u00E1n\ G\u00F3mez\r\n\ @version\ 21/10/2022\r\n
+comment1.params=
+comment1.target=Lamp()
+comment1.text=\r\n\ Constructor\ por\ defecto\ de\ la\ clase\ Lamp\r\n
+comment2.params=
+comment2.target=boolean\ getStatus()
+comment2.text=\r\n\ M\u00E9todo\ que\ devuelve\ el\ valor\ booleano\ del\ atributo\r\n\ @return\ Valor\ booleano\ de\ status.\r\n
+comment3.params=
+comment3.target=void\ turnOn()
+comment3.text=\r\n\ M\u00E9todo\ para\ encender\ la\ l\u00E1mpara\r\n\ @param\ status\ Estado\ de\ la\ l\u00E1mpara\r\n
+comment4.params=
+comment4.target=void\ turnOff()
+comment4.text=\r\n\ M\u00E9todo\ para\ apagar\ la\ l\u00E1mpara\r\n\ @param\ status\ Estado\ de\ la\ l\u00E1mpara\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ M\u00E9todo\ que\ devuelve\ un\ String\ diciendo\ si\ esta\ apagada\ o\ encendida\r\n\ @return\ Estado\ de\ la\ l\u00E1mpara\r\n
+numComments=6
