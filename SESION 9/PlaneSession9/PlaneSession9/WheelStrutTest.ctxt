@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=WheelStrutTest
+comment0.text=\r\n\ The\ test\ class\ WheelStrutTest.\r\n\r\n\ @author\ \ David\r\n\ @version\ 28/10/2022\r\n
+comment1.params=
+comment1.target=WheelStrutTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ WheelStrutTest\r\n
+comment2.params=
+comment2.target=void\ defConstOk()
+comment2.text=\r\n\ Pruebas\ del\ constructor\ por\ defecto\r\n\ Caso\ 1\:\r\n
+comment3.params=
+comment3.target=void\ defConstNumberOfWheelsEqual0()
+comment3.text=\r\n\ Pruebas\ del\ constructor\ por\ defecto\r\n\ Caso\ 2\:\ n\u00FAmero\ incorrecto\ de\ ruedas\r\n
+comment4.params=
+comment4.target=void\ defConstNumberOfWheelsNegative()
+comment4.text=\r\n\ Pruebas\ del\ constructor\ por\ defecto\r\n\ Caso\ 2\:\ n\u00FAmero\ negativo\ de\ ruedas\r\n
+comment5.params=
+comment5.target=void\ deployOk()
+comment5.text=\r\n\ Pruebas\ del\ m\u00E9todo\ deploy\r\n\ Caso\ 1\:\r\n
+comment6.params=
+comment6.target=void\ testFail()
+comment6.text=\r\n\ Pruebas\ test()\r\n\ Caso\ 2\:\ Una\ de\ las\ ruedas\ mal\r\n
+comment7.params=
+comment7.target=void\ toStringOk()
+comment7.text=\r\n\ Pruebas\ del\ m\u00E9todo\ toString()\r\n\ Caso1\:\r\n
+numComments=8
