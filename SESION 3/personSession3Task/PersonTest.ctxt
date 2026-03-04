@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PersonTest
+comment0.text=\r\n\ Prueba\ para\ la\ clase\ Person\r\n\r\n\ @author\ David\ Covi\u00E1n\ G\u00F3mez\r\n\ @version\ 30/09/2022\r\n
+comment1.params=
+comment1.target=PersonTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ PersonTest\r\n
+comment2.params=
+comment2.target=void\ setAgeBetweenLimits()
+comment2.text=\r\n\ Pruebas\ del\ setAge\r\n\ Caso\ 1\:\ Edad\ recibida\ dentro\ de\ los\ l\u00EDmites.\r\n
+comment3.params=
+comment3.target=void\ setAgeBelowLowerLimits()
+comment3.text=\r\n\ Pruebas\ del\ setAge\r\n\ Caso\ 2\:\ Edad\ por\ debajo\ del\ l\u00EDmite\ inferior\r\n
+comment4.params=
+comment4.target=void\ setAgeBelowHigherLimits()
+comment4.text=\r\n\ Pruebas\ del\ setAge\r\n\ Caso\ 3\:\ Edad\ por\ encima\ del\ l\u00EDmite\ superior\r\n
+comment5.params=
+comment5.target=void\ setAgeInferiorLimit()
+comment5.text=\r\n\ Pruebas\ del\ setAge\r\n\ Caso\ 4\:\ Edad\ en\ el\ l\u00EDmite\ inferior\r\n
+comment6.params=
+comment6.target=void\ setAgeSuperiorLimit()
+comment6.text=\r\n\ Pruebas\ del\ setAge\r\n\ Caso\ 5\:\ Edad\ en\ el\ l\u00EDmite\ superior\r\n
+numComments=7
